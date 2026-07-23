@@ -1,18 +1,18 @@
 # Movie App
 
-Movie App is a Flutter-based movie discovery and profile experience that combines TMDB movie data with a local-first user profile flow. Users can browse movies and TV shows, create profile cards, save movies to those profiles, and view shared interests across profiles.
+Movie App is a Flutter-based movie discovery and profile experience that combines TMDB movie data with a local-first user profile flow. Users can browse movies create profile cards, save movies to those profiles, and view shared interests across profiles.
 
 ## What the app does
 
 The app is built around two core ideas:
 
-- Discover movies and TV content from the TMDB API.
+- Discover movies from the TMDB API.
 - Organize that content around personal profiles, so each profile can maintain its own saved movie list.
 
 ### Main user flows
 
 - Browse trending, top-rated, and popular media.
-- Open a details screen for a selected movie or TV show.
+- Open a details screen for a selected movie.
 - Create a user/profile and assign it a movie taste description.
 - Save movies for a specific profile.
 - View matches and top-pick highlights based on shared saved movies.
