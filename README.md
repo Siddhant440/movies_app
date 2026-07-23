@@ -125,20 +125,20 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
+### Screenshots
+ -
+    <p align="center">
+      <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/user_screen.jpeg" width="250"">
+      <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/add_user.jpeg" width="250">
+        <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/user_profile.jpeg" width="250"">
+        <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/matches_screen.jpeg" width="250"">
+       <img src="" width="250">
+    </p>
+    
 
-Add screenshots to the repository in a folder such as `screenshots/` and reference them like this:
-
-```md
-![Home screen](screenshots/home_screen.png)
-![User details screen](screenshots/user_details.png)
-![Matches screen](screenshots/matches_screen.png)
-```
-
-Recommended screenshots to include:
-
-- Home or user list screen
-- Movie details screen
-- Add profile screen
-- Matches / shared-interest screen
-- A profile with saved movies visible
+    <p align="center">
+      <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/movies_list.jpeg" width="250"">
+      <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/saved_movies.jpeg" width="250">
+       <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/movie_details_screen.jpeg" width="250">
+        <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/confirmation.jpeg" width="250"">
+    </p>
