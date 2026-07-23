@@ -139,6 +139,6 @@ flutter run
     <p align="center">
       <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/matches_screen.jpeg" width="250"">
       <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/saved_movies.jpeg" width="250">
-       <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/movie_details.jpeg" width="250">
-        <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/confirmation.jpeg" width="250"">
+    <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/confirmation.jpeg" width="250"">
+    <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/movie_details.jpeg" width="250">
     </p>
