@@ -131,13 +131,13 @@ flutter run
       <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/user_screen.jpeg" width="250"">
       <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/add_user.jpeg" width="250">
         <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/user_profile.jpeg" width="250"">
-        <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/matches_screen.jpeg" width="250"">
+        <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/movies_list.jpeg" width="250"">
        <img src="" width="250">
     </p>
     
 
     <p align="center">
-      <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/movies_list.jpeg" width="250"">
+      <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/matches_screen.jpeg" width="250"">
       <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/saved_movies.jpeg" width="250">
        <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/movie_details_screen.jpeg" width="250">
         <img src="https://github.com/Siddhant440/movies_app/blob/master/screenshots/confirmation.jpeg" width="250"">
